@@ -38,6 +38,7 @@ No connection to an A10 device is made. The program generates CLI text files for
 Place the two combined scripts in the same directory
 - GUI_bind_to_a10_gslb.py
 - combined_bind_to_a10_gslb_converter.py
+
 Create a directory such as "zones" and place your BIND9 config .zone files in it (see sample zones)
 Then run:
 
